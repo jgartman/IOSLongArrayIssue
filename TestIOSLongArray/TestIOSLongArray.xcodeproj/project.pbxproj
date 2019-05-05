@@ -437,7 +437,7 @@
 				DEVELOPMENT_TEAM = 94T59JHJU5;
 				HEADER_SEARCH_PATHS = "${J2OBJC_HOME}/include/**";
 				INFOPLIST_FILE = TestIOSLongArray/Info.plist;
-				J2OBJC_HOME = "/Users/joshgartman/PiDroidTools/j2objc-2.0.5";
+				J2OBJC_HOME = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -457,7 +457,7 @@
 				DEVELOPMENT_TEAM = 94T59JHJU5;
 				HEADER_SEARCH_PATHS = "${J2OBJC_HOME}/include/**";
 				INFOPLIST_FILE = TestIOSLongArray/Info.plist;
-				J2OBJC_HOME = "/Users/joshgartman/PiDroidTools/j2objc-2.0.5";
+				J2OBJC_HOME = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
